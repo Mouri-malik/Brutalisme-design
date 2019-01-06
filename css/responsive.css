@@ -1,0 +1,11 @@
+@media (max-width: 991px) {
+
+  .container{
+    max-width: 100%;
+  }
+
+  .container img{
+    width: 100%
+  }
+
+}
